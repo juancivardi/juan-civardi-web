@@ -7,25 +7,25 @@ export default function Navbar() {
 
   return (
     <header>
-    <nav className="text-white w-full flex border-b border-gray-300 bg-black items-center">
+    <nav className="text-white w-full flex border-b border-[var(--turquesa)] bg-black items-center">
       <div className="mx-auto flex max-w-7xl items-center px-6 py-4">
-        <div className="items-center gap-8 flex">
+        <div className="items-center gap-8 flex text-m font-bold">
           <Link
             href="/"
-            className="text-sm hover:text-[var(--turquesa)]"
+            className="hover:text-[var(--turquesa)]"
           >
             Inicio
           </Link>
           <Link
             href="#proyectos"
-            className="text-sm  hover:text-[var(--turquesa)]"
+            className="hover:text-[var(--turquesa)]"
           >
             Mis proyectos
           </Link>
 
           <Link
             href="#about"
-            className="text-sm hover:text-[var(--turquesa)]"
+            className="hover:text-[var(--turquesa)]"
           >
             Sobre mí
           </Link>

@@ -21,7 +21,7 @@ export default function Hero() {
           </p>
         </div>
         <div className="relative mx-auto w-full max-w-[220px]">
-            <div className="relative aspect-[4/5] overflow-hidden rounded">
+            <div className="relative aspect-[4/5] overflow-hidden rounded-full">
                 <Image
                 src="/images/juan-foto.jpg"
                 alt="Juan Civardi, programador"
