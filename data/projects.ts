@@ -14,7 +14,7 @@ export const projects: Project[] = [
     tecnologias: "TypeScript • HTML • CSS • Tailwind • Github • Vercel",
     urlGit: "https://github.com/juancivardi/tita-nails",
     urlSitio: "https://www.tita-nails.com.ar",
-    imagen: "/images/web-tita.jpg",
+    imagen: "/images/web-tita.JPG",
   },
   {
     titulo: "Abogada Cintia Carreras",
@@ -22,7 +22,7 @@ export const projects: Project[] = [
     tecnologias: "TypeScript • HTML • CSS • Tailwind • Github • Vercel",
     urlGit: "https://github.com/juancivardi/estudio-juridico-cintia-carreras",
     urlSitio: "https://www.abogada-cintia-carreras.com.ar",
-    imagen: "/images/web-cintia.jpg",
+    imagen: "/images/web-cintia.JPG",
   },
   
 ];
