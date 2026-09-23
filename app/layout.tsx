@@ -10,10 +10,26 @@ import { cn } from "@/lib/utils";
 const geist = Geist({subsets:['latin'],variable:'--font-sans'});
 
 export const metadata: Metadata = {
-  title: "Juan Civardi",
-  description: "Programador - Web designer",
-  icons: {
-    icon: "/images/logo.png",
+  title: "Juan Civardi | Desarrollador de software",
+  description:
+    "Portfolio de Juan Civardi, desarrollador de software.",
+
+  openGraph: {
+    title: "Juan Civardi | Desarrollador de software",
+    description:
+      "Portfolio de Juan Civardi, desarrollador de software.",
+    url: "https://juan-civardi.vercel.app",
+    siteName: "Juan Civardi",
+    images: [
+      {
+        url: "https://https://juan-civardi.vercel.app/images/og-image.JPG",
+        width: 1200,
+        height: 630,
+        alt: "Juan Civardi - Desarrollador de software",
+      },
+    ],
+    locale: "es_AR",
+    type: "website",
   },
 };
 
