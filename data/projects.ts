@@ -24,5 +24,13 @@ export const projects: Project[] = [
     urlSitio: "https://www.abogada-cintia-carreras.com.ar",
     imagen: "/images/web-cintia.JPG",
   },
+  {
+    titulo: "Stock app",
+    descripcion: "",
+    tecnologias: "AppScripts • Google Sheets • Github",
+    urlGit: "https://github.com/juancivardi/SistemaStock",
+    urlSitio: "https://github.com/juancivardi/SistemaStock",
+    imagen: "/images/app-stock.jpeg",
+  },
   
 ];

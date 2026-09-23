@@ -11,7 +11,7 @@ export default function Projects() {
         </p>
 
         <h2 className="mt-2 text-2xl tracking-tight">
-          Conocé mis proyectos
+          Conocé mis últimos proyectos
         </h2>
 
         <div className="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
@@ -38,6 +38,9 @@ export default function Projects() {
                   sizes="(max-width: 768px) 100vw, 400px"
                 />
                 </div>
+                <p className="text-xs mb-3 text-center">
+                {project.urlSitio} 
+              </p>
               </div>
 
               <p className="text-sm">
@@ -46,7 +49,7 @@ export default function Projects() {
               <p className="mt-1 text-xs text-[var(--turquesa)]">
                 {project.tecnologias}
               </p>
-              <p className="mt-4 text-xs">
+              <p className="mt-4 text-xs text-gray-500">
                 {project.urlGit} 
               </p>
 

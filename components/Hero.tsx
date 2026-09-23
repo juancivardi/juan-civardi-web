@@ -5,7 +5,7 @@ export default function Hero() {
   return (
     <main>
       <AnimatedBeam>
-      <section className="grid grid-cols-1 px-6 py-10 text-white md:grid-cols-2 md:px-20">
+      <section className="grid grid-cols-1 px-6 py-10 text-white md:grid-cols-2 md:px-20 md:items-center">
         <div className="mx-auto max-w-7xl px-6 py-20">
 
           <h1 className="mt-2 text-5xl">
@@ -20,10 +20,10 @@ export default function Hero() {
             Desarrollo aplicaciones web y soluciones de software.
           </p>
         </div>
-        <div className="relative mx-auto w-full max-w-[220px]">
-            <div className="relative aspect-[4/5] overflow-hidden rounded-full">
+        <div className="relative mx-auto w-full max-w-[280px]">
+            <div className="relative aspect-[4/5] overflow-hidden">
                 <Image
-                src="/images/juan-foto.jpg"
+                src="/images/logo.png"
                 alt="Juan Civardi, programador"
                 fill
                 priority
