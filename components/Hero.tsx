@@ -8,7 +8,7 @@ export default function Hero() {
       <section className="grid grid-cols-1 px-6 py-10 text-white md:grid-cols-2 md:px-20 md:items-center">
         <div className="mx-auto max-w-7xl px-6 py-20">
 
-          <h1 className="mt-2 text-5xl">
+          <h1 className="mt-2 text-5xl tracking-wide">
             Juan Civardi
           </h1>
 

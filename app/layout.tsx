@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   title: "Juan Civardi",
   description: "Programador - Web designer",
   icons: {
-    icon: "/images/logo-png.png",
+    icon: "/images/logo.png",
   },
 };
 

@@ -12,8 +12,8 @@ export default function About() {
           </p>
           <p className="mt-6 max-w-3xl">
             Soy estudiante avanzado de la carrera de Analista en Tecnologías de la Información
-            y Comunicación en la Facultad Nacional de La Plata. Mi fuertes son el diseño visual y el diseño de paginas web.
-            Con el tiempo, utilizando lo aprendido en la universidad y mediante cursos, me perfeccioné utilizando herramientas como TypeScript, Java, JavaScript, React y otras tecnologías
+            y Comunicación en la Facultad Nacional de La Plata. Mi enfoque es el diseño visual y el diseño de paginas web.
+            Con el tiempo, utilizando lo aprendido en la universidad y mediante cursos, me perfeccioné utilizando herramientas como TypeScript, Java, JavaScript, React y otras tecnologías.
           </p>
           <p className="mt-6 max-w-3xl">
             Escribime y desarrollamos juntos tu solución de software ideal.

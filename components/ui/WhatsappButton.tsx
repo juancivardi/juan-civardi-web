@@ -10,7 +10,7 @@ export default function WhatsAppButton({
   className = "",
 }: WhatsAppButtonProps) {
   const message = encodeURIComponent(
-    "Hola, quisiera conocer màs sobre los servicios."
+    "Hola! Quisiera desarrollar una solución de software..."
   );
 
   return (
