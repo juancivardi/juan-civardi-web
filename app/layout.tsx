@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   description:
     "Portfolio de Juan Civardi, desarrollador de software.",
   icons: {
-    icon: "/images/logo.png",
+    icon: "/images/icono.png",
   },
   openGraph: {
     title: "Juan Civardi | Desarrollador de software",

@@ -23,7 +23,7 @@ export default function Hero() {
         <div className="relative mx-auto w-full max-w-[280px]">
             <div className="relative aspect-[4/5] overflow-hidden">
                 <Image
-                src="/images/logo.png"
+                src="/images/logo-png.png"
                 alt="Juan Civardi, programador"
                 fill
                 priority
