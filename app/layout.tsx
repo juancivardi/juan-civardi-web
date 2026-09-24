@@ -16,7 +16,6 @@ export const metadata: Metadata = {
   icons: {
     icon: "/images/logo.png",
   },
-
   openGraph: {
     title: "Juan Civardi | Desarrollador de software",
     description:

@@ -11,9 +11,12 @@ export default function About() {
             Sobre mí
           </p>
           <p className="mt-6 max-w-3xl">
-            Soy estudiante avanzado de la carrera de Analista en Tecnologías de la Información
-            y Comunicación en la Facultad Nacional de La Plata. Mi enfoque es el diseño visual y el diseño de paginas web.
-            Con el tiempo, utilizando lo aprendido en la universidad y mediante cursos, me perfeccioné utilizando herramientas como TypeScript, Java, JavaScript, React y otras tecnologías.
+            <span className="font-bold"> Crecí en la era digital, en contacto permanente con la tecnología y las herramientas informáticas. </span> Con el tiempo, ese vínculo natural con la tecnología se transformó en una vocación y en el interés por desarrollar soluciones digitales que puedan aportar valor a cada proyecto.
+            <br/> El desarrollo web me permite combinar conocimientos técnicos, creatividad y resolución de problemas para transformar ideas en sitios web funcionales, modernos y pensados para las necesidades de cada persona, emprendimiento o empresa.
+            <br/> Me interesa conocer cada proyecto, entender qué se quiere comunicar y encontrar la mejor manera de llevar esa idea a la computación. 
+            <br/> Creo que una página no debe ser solamente atractiva: debe tener un propósito, ser clara, fácil de usar y representar la identidad de quien está detrás de ella.
+            <br/> Cuento con formación profesional en desarrollo y diseño de páginas web y continúo ampliando mis conocimientos en tecnologías y desarrollo de software.
+            Mi objetivo es seguir creciendo profesionalmente, con el compromiso de mantenerme siempre actualizado frente a los desafíos de un mundo tecnológico en constante evolución y de buscar nuevas ideas y soluciones para cada proyecto.
           </p>
           <p className="mt-6 max-w-3xl">
             Escribime y desarrollamos juntos tu solución de software ideal.

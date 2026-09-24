@@ -12,12 +12,12 @@ export default function Hero() {
             Juan Civardi
           </h1>
 
-          <h2 className="mt-4 text-2xl">
-            Desarrollador de <span className="text-[var(--turquesa)]"> software</span>
+          <h2 className="mt-4 text-xl">
+            Desarrollador de <span className="text-[var(--turquesa)] font-bold"> software </span>.
           </h2>
 
           <p className="mt-6 max-w-xl">
-            Desarrollo aplicaciones web y soluciones de software.
+            Desarrollo sitios web y aplicaciones modernas y profesionales, pensados para hacer crecer tu proyecto.
           </p>
         </div>
         <div className="relative mx-auto w-full max-w-[280px]">

@@ -1,6 +1,7 @@
 import About from "@/components/About";
 import Hero from "@/components/Hero";
 import Projects from "@/components/Projects";
+import Services from "@/components/Services";
 import AnimatedBeam from "@/components/animata/background/animated-beam";
 
 export default function Home() {
@@ -9,6 +10,7 @@ export default function Home() {
     <main>
       <Hero/>
       <Projects/>
+      <Services/>
       <About/>
     </main>
     </AnimatedBeam>

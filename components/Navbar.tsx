@@ -11,16 +11,16 @@ export default function Navbar() {
       <div className="mx-auto flex max-w-7xl items-center px-6 py-4">
         <div className="items-center gap-8 flex text-m font-bold">
           <Link
-            href="/"
-            className="hover:text-[var(--turquesa)]"
-          >
-            Inicio
-          </Link>
-          <Link
             href="#proyectos"
             className="hover:text-[var(--turquesa)]"
           >
             Mis proyectos
+          </Link>
+          <Link
+            href="#services"
+            className="hover:text-[var(--turquesa)]"
+          >
+            Servicios
           </Link>
 
           <Link
