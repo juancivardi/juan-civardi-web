@@ -20,29 +20,28 @@ export default function Projects() {
               href={project.urlSitio}
               key={project.titulo}
               target="_blank"
-              className="group border border-white/30 bg-black p-6 transition-all duration-300 hover:-translate-y-1 hover:border-[var(--turquesa)]/50"
+              className="group border border-white/30 p-6 transition-all duration-300 hover:-translate-y-1 hover:border-[var(--turquesa)]/50"
             >
               <div className="group mb-2 h-px w-20 bg-[var(--turquesa)]" />
               <h3 className="">
                 {project.titulo}
               </h3>
               <div className="my-2 h-px w-20 bg-[var(--turquesa)]" />
-              <div className="relative mx-auto w-full max-w-[300px]">
+              <div className="mx-auto my-6 w-full max-w-[200px]">
                 <div className="relative aspect-square overflow-hidden rounded">
                 <Image
                   src={project.imagen}
                   alt={project.titulo}
                   fill
                   loading="eager"
-                  className="object-contain opacity-85 transition group-hover:opacity-100"
+                  className="object-cover opacity-50 transition group-hover:opacity-100"
                   sizes="(max-width: 768px) 100vw, 400px"
                 />
                 </div>
-                <p className="text-xs mb-3 text-center">
-                {project.urlSitio} 
-              </p>
               </div>
-
+              <p className="text-xs my-3 text-center">
+                  {project.urlSitio} 
+              </p>
               <p className="text-sm">
                 {project.descripcion}
               </p>
