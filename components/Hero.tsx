@@ -13,7 +13,7 @@ export default function Hero() {
           </h1>
 
           <h2 className="mt-4 text-xl">
-            Desarrollador de <span className="text-[var(--turquesa)] font-bold"> software </span>.
+            Desarrollador de <span className="text-[var(--turquesa)] font-bold"> software</span>.
           </h2>
 
           <p className="mt-6 max-w-xl">
