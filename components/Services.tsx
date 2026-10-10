@@ -8,6 +8,10 @@ export default function Services() {
         <h2 className="mt-2 text-2xl tracking-tight">
           Mis servicios y mi metodologia de trabajo.
         </h2>
+        <p>
+          Trabajo bajo metodologias agiles, un estilo de desarrollo incremental que consiste en varias iteraciones sobre un mismo proyecto
+          llevando a cabo reuniones o interacciones virtuales a fin de 
+        </p>
       <div className="mt-10 mx-auto max-w-7xl grid gap-6 lg:grid-cols-2">
         <div className="border p-10 mx-10 border-[var(--turquesa)]">
           <p className="text-[var(--turquesa)] tracking-tight">Servicios</p>
