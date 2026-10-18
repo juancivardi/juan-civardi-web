@@ -35,7 +35,7 @@ export default function Services() {
         <div className="border p-10 mx-10 border-[var(--turquesa)]">
             <p className="text-[var(--turquesa)] tracking-tight">Proceso</p>
             <p>
-                En el desarrollo incremental e iterativo se repiten los pasos del proceso en todo momento. No se trata de un plan perfecto si no de una organización flexible con el objetivo de lograr el mejor resultado.
+                En el desarrollo incremental e iterativo se repiten los pasos del proceso en todo momento. No se trata de un plan perfecto, si no de una organización flexible con el objetivo de lograr el mejor resultado.
             </p>
             <p>
                 <br/>1 - Me contas tu idea.
