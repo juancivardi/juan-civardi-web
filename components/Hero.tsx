@@ -17,7 +17,7 @@ export default function Hero() {
           </h2>
 
           <p className="mt-6 max-w-xl">
-            Desarrollo sitios web y aplicaciones modernas y profesionales, pensados para aportar a tu proyecto.
+            Desarrollo páginas web y aplicaciones modernas, pensadas para aportar a tu proyecto.
           </p>
         </div>
         <div className="relative mx-auto w-full max-w-[280px]">
