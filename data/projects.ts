@@ -32,5 +32,13 @@ export const projects: Project[] = [
     urlSitio: "https://github.com/juancivardi/SistemaStock",
     imagen: "/images/app-stock.jpeg",
   },
+  {
+    titulo: "Muebleria David (Fabrica)",
+    descripcion: "",
+    tecnologias: "TypeScript • HTML • CSS • Tailwind • Github • Vercel",
+    urlGit: "https://github.com/juancivardi/muebles-david",
+    urlSitio: "https://muebles-david.vercel.app/",
+    imagen: "/images/web-muebles-david.JPG",
+  },
   
 ];
